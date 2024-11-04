@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: api-doc-poc
+
+springdoc:
+  api-docs:
+    enabled: true
+  enable-javadoc: true
